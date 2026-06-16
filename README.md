@@ -12,7 +12,7 @@ This repository contains the design files and the images of each part.
 ### [Watch this video on YouTube](https://youtu.be/leAVq9ZJ1fE)
 **Screenshots**
 
-![Overall design](images/pcbs.png)
+![Overall design](images/pcb.png)
 
 ![Schematic](images/schematic.png)
 
