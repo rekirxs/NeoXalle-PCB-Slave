@@ -1,6 +1,9 @@
 # NeoXalle-PCB-Slave
 
 A full PCB work for a sport sensorial reaction device called NeoXalle.
+
+Similar products exist in the market such as BlazePod and Fitlight, based on this projects but with upgrades for the better.
+
 NeoXalle is a sport training device made up of 4 pods with LEDS, accelerometers, vibratiion motors and speaker to simulate a training for a variety of sports, all controlled thru an mobile APP where the user has the full control of the pods and can direct the training at any tipe of likings.
 
 The purpose of this pcb is to transform the actual circuit wired phisically into a pcb more compact and more capable than the already existing one.
